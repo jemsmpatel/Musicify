@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Musicify/static/css/main.bbeea6c2.css",
+    "main.js": "/Musicify/static/js/main.ea94e3a0.js",
+    "static/js/453.787abb39.chunk.js": "/Musicify/static/js/453.787abb39.chunk.js",
+    "index.html": "/Musicify/index.html",
+    "main.bbeea6c2.css.map": "/Musicify/static/css/main.bbeea6c2.css.map",
+    "main.ea94e3a0.js.map": "/Musicify/static/js/main.ea94e3a0.js.map",
+    "453.787abb39.chunk.js.map": "/Musicify/static/js/453.787abb39.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbeea6c2.css",
+    "static/js/main.ea94e3a0.js"
+  ]
+}
